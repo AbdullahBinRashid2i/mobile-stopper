@@ -5,7 +5,7 @@
 
 **Team:** [Add names and team group]  
 **Course:** Design Thinking Midterm  
-**Prototype:** Steady — open `CalmLoop/index.html`
+**Prototype:** Steady — open `index.html`
 
 ---
 
@@ -142,7 +142,7 @@ The intended order is empathize → define → ideate → prototype → test. Af
 
 ### (a) Working prototype
 
-**Steady** is a local web prototype in `CalmLoop/index.html`. Open the file in a browser. It includes a task starter, an optional notification-boundary checklist, a flexible focus timer, bedtime prompts, a private check-in, and a reminder to contact a trusted person. The `CalmLoop/README.md` file is the short user guide.
+**Steady** is a local web prototype in `index.html`. Open the file in a browser. It includes a task starter, an optional notification-boundary checklist, a flexible focus timer, bedtime prompts, a private check-in, and a reminder to contact a trusted person. The `README.md` file is the short user guide.
 
 ### (b) Feature-to-evidence link — demonstration only
 
@@ -206,4 +206,5 @@ Write answers in your own voice after the sprint:
 - Test the prototype with five students and record observations and revisions.
 - Replace the placeholder support reference with a verified campus contact.
 - Remove this preview warning only when all fictional examples have been replaced or clearly excluded from the submitted findings.
+
 
